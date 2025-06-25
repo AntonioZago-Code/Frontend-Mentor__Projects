@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
-  
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./src/images/favicon-32x32.png">
   <title>Frontend Mentor | Social links profile</title>
 
   <style>
@@ -16,19 +17,33 @@
 </head>
 <body>
 
-  Jessica Randall
-  London, United Kingdom
-  "Front-end developer and avid reader."
+  <section class="container">
 
-  GitHub
-  Frontend Mentor
-  LinkedIn
-  Twitter
-  Instagram
-  
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+    <header>
+      <img src="./src/images/avatar-antonio.jpeg" alt="Profile Image Antonio Zago">
+
+      <h1 class="name">Antonio Zago</h1>
+      <h2 class="location">Rio de Janeiro, Brasil</h2>
+      <p class="description">"Front-end developer and avid reader."</p>
+
+    </header>
+
+    <nav>
+
+      <ul class="social-links-list">
+        <li class="social-link"><a href="https://github.com/AntonioZago-Code">GitHub</a></li>
+        <li class="social-link"><a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
+        <li class="social-link"><a href="https://www.linkedin.com/in/antonio-zago-3a1309368/">LinkedIn</a></li>
+        <li class="social-link"><a href="https://www.instagram.com/antoniobzago20/">Instagram</a></li>
+      </ul>
+
+    </nav>
+
+    <footer class="attribution">
+      <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://www.frontendmentor.io/home">Antonio B. Zago</a>.</p>
+    </footer>
+
+  </section>
+
 </body>
 </html>
