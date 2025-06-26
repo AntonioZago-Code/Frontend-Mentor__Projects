@@ -57,9 +57,7 @@ Upon completing this project, I intend to improve my knowledge about web design 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [W3 Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp) - This helped me with styling properties of HTML elements and making the project responsive with @media
 
 ## Author
 
