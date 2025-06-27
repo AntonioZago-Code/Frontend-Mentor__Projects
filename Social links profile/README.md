@@ -29,7 +29,7 @@ Users should be able to see hover and focus states for all interactive elements 
 
 ### Screenshot
 
-![Final project image](./assets/images/final-project-image.jpg)
+![Final project image](./src/images/final-project-image.png)
 
 
 ### Links
@@ -61,6 +61,6 @@ Upon completing this project, I intend to improve my knowledge about web design 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+<!-- - Website - [Antonio b. Zago](https://www.your-site.com) -->
+- Frontend Mentor - [@AntonioZago-Code](https://www.frontendmentor.io/home)
 - GitHub - [@AntonioZago-Code](https://github.com/AntonioZago-Code)
