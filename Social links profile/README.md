@@ -34,7 +34,7 @@ Users should be able to see hover and focus states for all interactive elements 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-social-links-profile-mWXrkjGwj8)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-social-links-profile-mWXrkjGwj8)
 - Live Site URL: [Social links profile - Github Page](https://antoniozago-code.github.io/Frontend-Mentor__Projects/Social%20links%20profile/social-link-profile.html)
 - GitHub URL: [Social links profile](https://github.com/AntonioZago-Code/Frontend-Mentor__Projects/tree/main/Social%20links%20profile)
 
