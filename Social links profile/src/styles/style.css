@@ -1,3 +1,46 @@
+.home-back {
+
+    background-color: hsl(75, 94%, 57%);
+
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+    width: 40px;
+    height: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid #000;
+    border-radius: 50%;
+
+    transition: .3s;
+}
+
+.home-back .home-back_link::after {
+    
+    content:'<-';
+    width: 100%;
+
+    color: #000;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.home-back:hover {
+
+    width: 150px;
+    border-radius: 20px;
+}
+
+.home-back:hover .home-back_link::after {
+
+    content: "<- Voltar";
+    font-size: 1.3rem;
+}
+
 .container {
 
     background-color: hsl(0, 0%, 12%);
