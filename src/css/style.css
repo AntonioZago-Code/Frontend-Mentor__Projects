@@ -48,6 +48,12 @@ main .cards-list {
     gap: 20px;
 }
 
+main .cards-list .building {
+
+    cursor: default;
+    opacity: .5;
+}
+
 main .cards-list .card-item {
 
     width: 300px;
